@@ -1,0 +1,12 @@
+{
+  "name": "codelingo",
+  "version": "1.0.0",
+  "description": "CodeLingo - Mobile-first Programming & Algorithm Interactive Learning App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node scripts/build.mjs",
+    "test": "node test-check.mjs"
+  },
+  "license": "MIT"
+}

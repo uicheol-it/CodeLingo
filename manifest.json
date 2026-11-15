@@ -1,0 +1,17 @@
+{
+  "name": "CodeLingo - 코드링고",
+  "short_name": "CodeLingo",
+  "description": "파이썬 기초 문법과 알고리즘 인터랙티브 학습",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
